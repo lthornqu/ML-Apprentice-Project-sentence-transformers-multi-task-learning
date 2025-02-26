@@ -84,8 +84,9 @@ docker build -t ml-apprentice-project .
 ### 2️⃣ Run the Container
 
 ```bash
-docker run --rm -it ml-apprentice-project
+docker run --rm -it -p 8888:8888 ml-apprentice-project
 ```
+You can access the project using one of the provided URLs in the terminal window (including a token) on your host machine's browser.
 
 ## 🏅 Model Training & Evaluation
 

@@ -73,7 +73,7 @@ Then open `main_ML_Apprentice_Project.ipynb`.
 
 ## 🛆 Running with Docker
 
-You can build and run this project using Docker:
+You can build and run this project using Docker (after first navigating to the project's location on your device in Terminal):
 
 ### 1️⃣ Build the Docker Image
 
